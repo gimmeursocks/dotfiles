@@ -1,0 +1,18 @@
+working_directory = "C:/Users/bobte"
+
+[shell]
+program = "C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe"
+args = ["-nologo"]
+
+[window]
+dimensions = { columns = 115, lines = 30 }
+padding = { x = 10, y = 10 }
+dynamic_padding = true
+opacity = 0.7
+dynamic_title = false
+
+[font]
+normal = { family = "Hack Nerd Font"}
+
+[cursor]
+style = { shape = "Block", blinking = "On"}
