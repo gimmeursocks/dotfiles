@@ -1,8 +1,8 @@
 working_directory = "C:/Users/bobte"
 
 [shell]
-program = "C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe"
-args = ["-nologo"]
+program = "C:/msys64/usr/bin/bash.exe"
+args = ["--login","-i"]
 
 [window]
 dimensions = { columns = 115, lines = 30 }

@@ -1,3 +1,3 @@
-Current Powershell Profile
+Current powershell profile
 
 `C:\Users\bobte\Documents\WindowsPowerShell`
